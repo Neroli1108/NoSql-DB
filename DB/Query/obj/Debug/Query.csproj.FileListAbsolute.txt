@@ -1,0 +1,48 @@
+D:\Downloads\Project2Starter (1)\Query\bin\Debug\Query.exe.config
+D:\Downloads\Project2Starter (1)\Query\bin\Debug\Query.exe
+D:\Downloads\Project2Starter (1)\Query\bin\Debug\Query.pdb
+D:\Downloads\Project2Starter (1)\Query\bin\Debug\DBElement.exe
+D:\Downloads\Project2Starter (1)\Query\bin\Debug\UtilityExtensions.exe
+D:\Downloads\Project2Starter (1)\Query\bin\Debug\DBElement.pdb
+D:\Downloads\Project2Starter (1)\Query\bin\Debug\UtilityExtensions.pdb
+D:\Downloads\Project2Starter (1)\Query\obj\Debug\Query.csprojResolveAssemblyReference.cache
+D:\Downloads\Project2Starter (1)\Query\obj\Debug\Query.exe
+D:\Downloads\Project2Starter (1)\Query\obj\Debug\Query.pdb
+D:\Downloads\Project2Starter (1)\Query\bin\Debug\DBEngine.exe
+D:\Downloads\Project2Starter (1)\Query\bin\Debug\DBEngine.pdb
+E:\My Files\Daily\2015\1017\Project2__YundingLi1\Project2__YundingLi\Query\bin\Debug\Query.exe.config
+E:\My Files\Daily\2015\1017\Project2__YundingLi1\Project2__YundingLi\Query\bin\Debug\Query.exe
+E:\My Files\Daily\2015\1017\Project2__YundingLi1\Project2__YundingLi\Query\bin\Debug\Query.pdb
+E:\My Files\Daily\2015\1017\Project2__YundingLi1\Project2__YundingLi\Query\bin\Debug\DBElement.exe
+E:\My Files\Daily\2015\1017\Project2__YundingLi1\Project2__YundingLi\Query\bin\Debug\DBEngine.exe
+E:\My Files\Daily\2015\1017\Project2__YundingLi1\Project2__YundingLi\Query\bin\Debug\UtilityExtensions.exe
+E:\My Files\Daily\2015\1017\Project2__YundingLi1\Project2__YundingLi\Query\bin\Debug\DBElement.pdb
+E:\My Files\Daily\2015\1017\Project2__YundingLi1\Project2__YundingLi\Query\bin\Debug\DBEngine.pdb
+E:\My Files\Daily\2015\1017\Project2__YundingLi1\Project2__YundingLi\Query\bin\Debug\UtilityExtensions.pdb
+E:\My Files\Daily\2015\1017\Project2__YundingLi1\Project2__YundingLi\Query\obj\Debug\Query.csprojResolveAssemblyReference.cache
+E:\My Files\Daily\2015\1017\Project2__YundingLi1\Project2__YundingLi\Query\obj\Debug\Query.exe
+E:\My Files\Daily\2015\1017\Project2__YundingLi1\Project2__YundingLi\Query\obj\Debug\Query.pdb
+D:\协助\Project2__YundingLi\Project2__YundingLi\Query\bin\Debug\Query.exe.config
+D:\协助\Project2__YundingLi\Project2__YundingLi\Query\bin\Debug\Query.exe
+D:\协助\Project2__YundingLi\Project2__YundingLi\Query\bin\Debug\Query.pdb
+D:\协助\Project2__YundingLi\Project2__YundingLi\Query\bin\Debug\DBElement.exe
+D:\协助\Project2__YundingLi\Project2__YundingLi\Query\bin\Debug\DBEngine.exe
+D:\协助\Project2__YundingLi\Project2__YundingLi\Query\bin\Debug\UtilityExtensions.exe
+D:\协助\Project2__YundingLi\Project2__YundingLi\Query\bin\Debug\DBElement.pdb
+D:\协助\Project2__YundingLi\Project2__YundingLi\Query\bin\Debug\DBEngine.pdb
+D:\协助\Project2__YundingLi\Project2__YundingLi\Query\bin\Debug\UtilityExtensions.pdb
+D:\协助\Project2__YundingLi\Project2__YundingLi\Query\obj\Debug\Query.csprojResolveAssemblyReference.cache
+D:\协助\Project2__YundingLi\Project2__YundingLi\Query\obj\Debug\Query.exe
+D:\协助\Project2__YundingLi\Project2__YundingLi\Query\obj\Debug\Query.pdb
+D:\TDDOWNLOAD\CommPrototype(1)\DB\Query\bin\Debug\Query.exe.config
+D:\TDDOWNLOAD\CommPrototype(1)\DB\Query\bin\Debug\Query.exe
+D:\TDDOWNLOAD\CommPrototype(1)\DB\Query\bin\Debug\Query.pdb
+D:\TDDOWNLOAD\CommPrototype(1)\DB\Query\bin\Debug\DBElement.exe
+D:\TDDOWNLOAD\CommPrototype(1)\DB\Query\bin\Debug\DBEngine.exe
+D:\TDDOWNLOAD\CommPrototype(1)\DB\Query\bin\Debug\UtilityExtensions.exe
+D:\TDDOWNLOAD\CommPrototype(1)\DB\Query\bin\Debug\DBElement.pdb
+D:\TDDOWNLOAD\CommPrototype(1)\DB\Query\bin\Debug\DBEngine.pdb
+D:\TDDOWNLOAD\CommPrototype(1)\DB\Query\bin\Debug\UtilityExtensions.pdb
+D:\TDDOWNLOAD\CommPrototype(1)\DB\Query\obj\Debug\Query.csprojResolveAssemblyReference.cache
+D:\TDDOWNLOAD\CommPrototype(1)\DB\Query\obj\Debug\Query.exe
+D:\TDDOWNLOAD\CommPrototype(1)\DB\Query\obj\Debug\Query.pdb

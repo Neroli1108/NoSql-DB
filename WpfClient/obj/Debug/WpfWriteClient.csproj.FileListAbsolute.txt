@@ -1,0 +1,30 @@
+D:\CommPrototype(1)\WpfClient\bin\Debug\WpfApplication1.exe.config
+D:\CommPrototype(1)\WpfClient\obj\Debug\WpfApplication1.exe
+D:\CommPrototype(1)\WpfClient\obj\Debug\WpfApplication1.pdb
+D:\CommPrototype(1)\WpfClient\bin\Debug\WpfApplication1.exe
+D:\CommPrototype(1)\WpfClient\bin\Debug\WpfApplication1.pdb
+D:\CommPrototype(1)\WpfClient\bin\Debug\ICommService.dll
+D:\CommPrototype(1)\WpfClient\bin\Debug\MakeMessage.exe
+D:\CommPrototype(1)\WpfClient\bin\Debug\Receiver.exe
+D:\CommPrototype(1)\WpfClient\bin\Debug\Sender.exe
+D:\CommPrototype(1)\WpfClient\bin\Debug\Utilities.exe
+D:\CommPrototype(1)\WpfClient\bin\Debug\Write Client.exe
+D:\CommPrototype(1)\WpfClient\bin\Debug\CommService.dll
+D:\CommPrototype(1)\WpfClient\bin\Debug\BlockingQueue.dll
+D:\CommPrototype(1)\WpfClient\bin\Debug\ICommService.pdb
+D:\CommPrototype(1)\WpfClient\bin\Debug\MakeMessage.pdb
+D:\CommPrototype(1)\WpfClient\bin\Debug\Receiver.pdb
+D:\CommPrototype(1)\WpfClient\bin\Debug\Sender.pdb
+D:\CommPrototype(1)\WpfClient\bin\Debug\Utilities.pdb
+D:\CommPrototype(1)\WpfClient\bin\Debug\Write Client.pdb
+D:\CommPrototype(1)\WpfClient\bin\Debug\CommService.pdb
+D:\CommPrototype(1)\WpfClient\bin\Debug\BlockingQueue.pdb
+D:\CommPrototype(1)\WpfClient\obj\Debug\WpfWriteClient.csprojResolveAssemblyReference.cache
+D:\CommPrototype(1)\WpfClient\obj\Debug\App.g.cs
+D:\CommPrototype(1)\WpfClient\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\CommPrototype(1)\WpfClient\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\CommPrototype(1)\WpfClient\obj\Debug\WpfApplication1.g.resources
+D:\CommPrototype(1)\WpfClient\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\CommPrototype(1)\WpfClient\obj\Debug\WpfWriteClient.csproj.GenerateResource.Cache
+D:\CommPrototype(1)\WpfClient\obj\Debug\mainwindow.g.cs
+D:\CommPrototype(1)\WpfClient\obj\Debug\mainwindow.baml

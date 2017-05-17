@@ -1,0 +1,16 @@
+D:\TDDOWNLOAD\CommPrototype(1)\Write Client\bin\Debug\Write Client.exe.config
+D:\TDDOWNLOAD\CommPrototype(1)\Write Client\bin\Debug\Write Client.exe
+D:\TDDOWNLOAD\CommPrototype(1)\Write Client\bin\Debug\Write Client.pdb
+D:\TDDOWNLOAD\CommPrototype(1)\Write Client\bin\Debug\Xdoc.exe
+D:\TDDOWNLOAD\CommPrototype(1)\Write Client\bin\Debug\Xdoc.pdb
+D:\TDDOWNLOAD\CommPrototype(1)\Write Client\obj\Debug\WriteData.csprojResolveAssemblyReference.cache
+D:\TDDOWNLOAD\CommPrototype(1)\Write Client\obj\Debug\Write Client.exe
+D:\TDDOWNLOAD\CommPrototype(1)\Write Client\obj\Debug\Write Client.pdb
+D:\CommPrototype(1)\Write Client\bin\Debug\Write Client.exe.config
+D:\CommPrototype(1)\Write Client\bin\Debug\Write Client.exe
+D:\CommPrototype(1)\Write Client\bin\Debug\Write Client.pdb
+D:\CommPrototype(1)\Write Client\bin\Debug\Xdoc.exe
+D:\CommPrototype(1)\Write Client\bin\Debug\Xdoc.pdb
+D:\CommPrototype(1)\Write Client\obj\Debug\WriteData.csprojResolveAssemblyReference.cache
+D:\CommPrototype(1)\Write Client\obj\Debug\Write Client.exe
+D:\CommPrototype(1)\Write Client\obj\Debug\Write Client.pdb

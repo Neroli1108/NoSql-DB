@@ -1,0 +1,27 @@
+E:\My Files\Daily\2015\LeeYd\1118\YundingLIPRO#4\CommPrototype(1)\TestLauncher\bin\Debug\TestLauncher.exe.config
+E:\My Files\Daily\2015\LeeYd\1118\YundingLIPRO#4\CommPrototype(1)\TestLauncher\bin\Debug\TestLauncher.exe
+E:\My Files\Daily\2015\LeeYd\1118\YundingLIPRO#4\CommPrototype(1)\TestLauncher\bin\Debug\TestLauncher.pdb
+E:\My Files\Daily\2015\LeeYd\1118\YundingLIPRO#4\CommPrototype(1)\TestLauncher\obj\Debug\TestLauncher.csprojResolveAssemblyReference.cache
+E:\My Files\Daily\2015\LeeYd\1118\YundingLIPRO#4\CommPrototype(1)\TestLauncher\obj\Debug\TestLauncher.exe
+E:\My Files\Daily\2015\LeeYd\1118\YundingLIPRO#4\CommPrototype(1)\TestLauncher\obj\Debug\TestLauncher.pdb
+D:\CommPrototype(1)\TestLauncher\bin\Debug\TestLauncher.exe.config
+D:\CommPrototype(1)\TestLauncher\obj\Debug\TestLauncher.exe
+D:\CommPrototype(1)\TestLauncher\obj\Debug\TestLauncher.pdb
+D:\CommPrototype(1)\TestLauncher\bin\Debug\TestLauncher.exe
+D:\CommPrototype(1)\TestLauncher\bin\Debug\TestLauncher.pdb
+D:\CommPrototype(1)\TestLauncher\obj\Debug\TestLauncher.csprojResolveAssemblyReference.cache
+D:\Project#4\TestLauncher\bin\Debug\TestLauncher.exe.config
+D:\Project#4\TestLauncher\obj\Debug\TestLauncher.exe
+D:\Project#4\TestLauncher\obj\Debug\TestLauncher.pdb
+D:\Project#4\TestLauncher\bin\Debug\TestLauncher.exe
+D:\Project#4\TestLauncher\bin\Debug\TestLauncher.pdb
+D:\Project#4\TestLauncher\obj\Debug\TestLauncher.csprojResolveAssemblyReference.cache
+D:\Project#4_YundingLI\TestLauncher\bin\Debug\TestLauncher.exe.config
+D:\Project#4_YundingLI\TestLauncher\obj\Debug\TestLauncher.exe
+D:\Project#4_YundingLI\TestLauncher\obj\Debug\TestLauncher.pdb
+D:\Project#4_YundingLI\TestLauncher\obj\Debug\TestLauncher.csprojResolveAssemblyReference.cache
+D:\Project#4_YundingLI\TestLauncher\bin\Debug\TestLauncher.exe
+D:\Project#4_YundingLI\TestLauncher\bin\Debug\TestLauncher.pdb
+D:\ProjectReview\Project#4_YundingLI\TestLauncher\bin\Debug\TestLauncher.exe.config
+D:\ProjectReview\Project#4_YundingLI\TestLauncher\obj\Debug\TestLauncher.exe
+D:\ProjectReview\Project#4_YundingLI\TestLauncher\obj\Debug\TestLauncher.pdb

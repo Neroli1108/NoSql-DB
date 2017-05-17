@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Demonstration XML-->
+<NoSql>
+<Record>
+  <Key>1</Key>
+    <Name>element1</Name>
+    <Descr>test element1</Descr>
+    <TimeRecord>2015-11-12T23:02:54.9549088+08:00</TimeRecord>
+    <children>
+      <child>1</child>
+      <child>1</child>
+      <child>1</child>
+    </children>
+    <Payload>elem1's payload</Payload>
+</Record>
+  <Record>
+  <Key>2</Key>
+    <Name>element2</Name>
+    <Descr>test element2</Descr>
+    <TimeRecord>2015-11-12T23:02:54.9549088+08:00</TimeRecord>
+    <children>
+      <child>2</child>
+      <child>2</child>
+      <child>2</child>
+    </children>
+    <Payload>elem2's payload</Payload>
+</Record>
+  <Record>
+  <Key>3</Key>
+    <Name>element3</Name>
+    <Descr>test eleMent3</Descr>
+    <TimeRecord>2015-11-12T23:02:54.9549088+08:00</TimeRecord>
+    <children>
+      <child>3</child>
+      <child>3</child>
+      <child>3</child>
+   </children>
+    <Payload>elem3's payload</Payload>
+</Record>
+</NoSql>

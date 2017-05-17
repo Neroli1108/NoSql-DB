@@ -1,0 +1,6 @@
+D:\TDDOWNLOAD\CommPrototype(1)\Xdoc\obj\Debug\Xdoc.csprojResolveAssemblyReference.cache
+D:\TDDOWNLOAD\CommPrototype(1)\Xdoc\bin\Debug\Xdoc.exe.config
+D:\TDDOWNLOAD\CommPrototype(1)\Xdoc\bin\Debug\Xdoc.exe
+D:\TDDOWNLOAD\CommPrototype(1)\Xdoc\bin\Debug\Xdoc.pdb
+D:\TDDOWNLOAD\CommPrototype(1)\Xdoc\obj\Debug\Xdoc.exe
+D:\TDDOWNLOAD\CommPrototype(1)\Xdoc\obj\Debug\Xdoc.pdb
